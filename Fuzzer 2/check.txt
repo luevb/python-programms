@@ -1,0 +1,9 @@
+.well-known/security.txt
+.well-known/keybase.txt
+readme.txt
+.well-known/mta-sts.txt
+robots.txt
+.well-known/dnt-policy.txt
+config.php.txt
+license.txt
+release_notes.txt

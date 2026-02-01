@@ -1,0 +1,2 @@
+https://www.hackthissite.org/.well-known/security.txt
+https://www.hackthissite.org/robots.txt
