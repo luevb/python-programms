@@ -64,12 +64,6 @@ lab_2_sort/
 - Python 3.6 или выше
 - Дополнительные библиотеки не требуются
 
-### Клонирование репозитория
-```bash
-git clone https://github.com/ваш-логин/lab_2_sort.git
-cd lab_2_sort
-```
-
 ### Запуск программы  
 ```bash
 # Из корневой папки проекта
@@ -80,3 +74,4 @@ python src/main.py
 # Отдельно от основной программы
 python tests/test_shaker_sort.py
 ```
+
